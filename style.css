@@ -1,0 +1,9 @@
+*{
+    list-style-type: none;
+}
+.nav-link{
+    color: white !important;
+}
+img {
+    height: 200px;
+}
